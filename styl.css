@@ -1,0 +1,68 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body, html {
+    width: 100%;
+    height: 100%;
+    font-family: 'Poppins', sans-serif;
+    color: #222222;
+}
+.navbar-brad img {max-width: 44px;}
+.navbar-brad1 img {max-width: 26px}
+
+
+.navbar-nav li {
+    padding-right: 18px;
+}
+
+.nav-link{font-size: 1.1em !important}
+
+.row-jumbotron{
+    background: #F1E4E6;
+    display: flex;
+    align-items: center;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.row-jumbotron img{
+    width: 100%;
+    height: 100%;
+}
+.container-fluid{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.container-fluid img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.text-center{
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.alert1{
+    margin-top: 30px;
+    color: #f5f0f0;
+    background-color: #222222;
+}
+
+.btn-primary{
+    margin-top: 30px;
+}
+.container1{
+    width: 100%;
+    height: 100%;
+    background-color: #222222;
+    color: #f5f0f0;
+}
+.container-fluid1{
+    background-image: url(img/photo\ subscribe\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
